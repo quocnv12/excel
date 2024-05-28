@@ -1,0 +1,14 @@
+{
+  "title": "Request an inventory check",
+  "titleNote": "Note: This request is sent from the Procurement department",
+  "titleTable": "Material requirements",
+  "headerCard": {
+    "card1": "Total volume required",
+    "card2": "Wait for approval",
+    "card3": "Booking",
+    "card4": "About"
+  },
+  "status1": "Wait for BQL to approve",
+  "status2": "Wait for inventory checks",
+  "status3": "Goods are returning"
+}

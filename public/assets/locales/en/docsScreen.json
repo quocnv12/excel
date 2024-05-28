@@ -1,0 +1,22 @@
+{
+  "title": "Document management",
+  "searchBox": "Search",
+  "leftMenu": {
+    "item1": "All",
+    "item2": "Project A",
+    "item3": "Project B",
+    "item4": "Project C",
+    "status1": "Completed",
+    "status2": "Responded",
+    "status3": "Folding finish"
+  },
+  "btnGroup": {
+    "btn1": "Download the new file",
+    "btn2": "Install",
+    "btn3": "Create a folder",
+    "btn4": "Share"
+  },
+  "folderContent": {
+    "updatedDate": "Update date"
+  }
+}

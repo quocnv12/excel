@@ -1,0 +1,17 @@
+{
+  "title": "Bảng tổng quan sản xuất",
+  "filterSection": {
+    "field1": "Mã/Tên",
+    "fieldPlaceholder1": "Mã/Tên dự án...",
+    "field2": "K.Hàng",
+    "fieldPlaceholder2": "Mã/Tên khách hàng",
+    "progress": {
+      "label": "Tiến độ",
+      "option1": "Pending Payment",
+      "option2": "Confirmed",
+      "option3": "Packing",
+      "option4": "Shipping",
+      "option5": "Completed"
+    }
+  }
+}

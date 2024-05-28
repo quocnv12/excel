@@ -1,0 +1,45 @@
+@tailwind components;
+@tailwind utilities;
+
+
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  padding: 5px 12px;
+  cursor: pointer;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+  padding: 4px 11px;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+}
+
+.ant-input-disabled, :where(.css-dev-only-do-not-override-1ngyhpc).ant-input[disabled] {
+  color: initial;
+  background-color: #fff;
+  border-color: #E2E8F0;
+  box-shadow: none;
+  cursor: not-allowed;
+  opacity: 1;
+}
+
+.ant-menu-light .ant-menu-item {
+  color: #fff;
+}
+
+.ant-input.ant-input-disabled, .ant-picker.ant-picker-disabled.ant-picker-outlined  {
+  background: #fff;
+  color: #000;
+}
+
+.ant-picker-outlined.ant-picker-disabled:hover:not([disabled]), .ant-picker-outlined[disabled]:hover:not([disabled]) {
+  border-color: #E2E8F0;
+  background-color: #fff;
+}
+
+.ant-input-outlined.ant-input-disabled {
+  color: #000;
+}

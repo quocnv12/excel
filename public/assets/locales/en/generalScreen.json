@@ -1,0 +1,14 @@
+{
+  "title": "Material Report",
+  "titleTable": "Project report",
+  "datePicker": {
+    "startDate": "From the date",
+    "endDate": "To date"
+  },
+  "headerCard": {
+    "card1": "Total Release",
+    "card2": "Ordered",
+    "card3": "Back in stock",
+    "card4": "Inventory"
+  }
+}

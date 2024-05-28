@@ -1,0 +1,66 @@
+{
+  "designOverallScreen": {
+    "title": "Tổng quan",
+    "titleTable": "Yêu cầu vật liệu",
+    "leftMenu": {
+      "item1": "Tất cả",
+      "item2": "Dự án A",
+      "item3": "Dự án B",
+      "item4": "Dự án C",
+      "status1": "Đã hoàn thành",
+      "status2": "Đã phản hồi",
+      "status3": "Hoàn thiện gấp"
+    },
+
+    "btnGroup": {
+      "btn1": "Tải file mới",
+      "btn2": "Cài đặt",
+      "btn3": "Tạo thư mục",
+      "btn4": "Chia sẻ",
+      "btn5": "Tìm kiếm"
+    },
+
+    "folderContent": {
+      "updatedDate": "Cập nhật ngày"
+    }
+  },
+
+  "designFileScreen": {
+    "title": "File thiết kế"
+  },
+
+  "designMprScreen": {
+    "title": "Chi phí",
+    "btnGroup": {
+      "btn1": "Yêu cầu mới"
+    },
+    "filterSection": {
+      "field1": "Vật liệu",
+      "fieldPlaceholder1": "Tên vật liệu...",
+      "field2": "Dự án",
+      "field3": {
+        "title": "Trạng thái",
+        "status1": "Hoạt động",
+        "status2": "Không hoạt động"
+      }
+    },
+    "tableContent": {
+      "title": "Yều cầu vật liệu"
+    }
+  },
+
+  "designBOMScreen": {
+    "title": "BOM & phân chia công việc",
+    "filterSection": {
+      "project": "Dự án",
+      "status": {
+        "title": "Trạng thái",
+        "status1": "Hoạt động",
+        "status2": "Không hoạt động"
+      }
+    },
+    "btnGroup": {
+      "uploadBOM": "Tải lên BOM"
+    }
+  }
+}

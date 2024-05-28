@@ -1,0 +1,14 @@
+{
+  "title": "Báo cáo nguyên vật liệu",
+  "titleTable": "Báo cáo dự án",
+  "datePicker": {
+    "startDate": "Từ ngày",
+    "endDate": "Đến ngày"
+  },
+  "headerCard": {
+    "card1": "Tổng phát hành",
+    "card2": "Đã đặt hàng",
+    "card3": "Đã về kho",
+    "card4": "Tồn kho"
+  }
+}

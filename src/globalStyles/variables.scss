@@ -1,0 +1,39 @@
+$color-background: #ffffff;
+$color-primary: #194898;
+$color-primary-60: rgba($color-primary, 0.6);
+$color-primary-20: rgba($color-primary, 0.2);
+$color-primary-10: rgba($color-primary, 0.1);
+$color-border: #E2E8F0;
+$color-sub-text: #64748b;
+$color-success: #0d9488;
+$color-success-20: rgba($color-success, 0.2);
+$color-error: #b91c1c;
+$color-error-20: rgba($color-error, 0.2);
+$color-warning: #f59e0b;
+$color-warning-20: rgba($color-warning, 0.2);
+$color-pending: #ea580c;
+$color-pending-20: rgba($color-pending, 0.2);
+
+$box-shadow: 0px 3px 5px #0000000b;
+$border-radius: 6px;
+
+:export {
+  colorBackground: $color-background;
+  colorPrimary: $color-primary;
+  colorPrimary60: $color-primary-60;
+  colorPrimary20: $color-primary-20;
+  colorPrimary10: $color-primary-10;
+  colorSuccess: $color-success;
+  colorSuccess20: $color-success-20;
+  colorBorder: $color-border;
+  colorSubText: $color-sub-text;
+  colorError: $color-error;
+  colorError20: $color-error-20;
+  colorPending: $color-pending;
+  colorPending20: $color-pending-20;
+  colorWarning: $color-warning;
+  colorWarning20: $color-warning-20;
+
+  boxShadow: $box-shadow;
+  borderRadius: $border-radius;
+}

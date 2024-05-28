@@ -1,0 +1,9 @@
+{
+  "title": "Chi phí",
+  "filterSection": {
+    "code": "Mã/Tên",
+    "codePlaceholder": "Mã/Tên dự án...",
+    "customer": "K.Hàng",
+    "customerPlaceholder": "Mã/Tên khách hàng"
+  }
+}

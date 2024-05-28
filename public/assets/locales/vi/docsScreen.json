@@ -1,0 +1,24 @@
+{
+  "title": "Quản lý tài liệu",
+  "searchBox": "Tìm kiếm",
+  "leftMenu": {
+    "item1": "Tất cả",
+    "item2": "Dự án A",
+    "item3": "Dự án B",
+    "item4": "Dự án C",
+    "status1": "Đã hoàn thành",
+    "status2": "Đã phản hồi",
+    "status3": "Hoàn thiện gấp"
+  },
+
+  "btnGroup": {
+    "btn1": "Tải file mới",
+    "btn2": "Cài đặt",
+    "btn3": "Tạo thư mục",
+    "btn4": "Chia sẻ"
+  },
+
+  "folderContent": {
+    "updatedDate": "Cập nhật ngày"
+  }
+}

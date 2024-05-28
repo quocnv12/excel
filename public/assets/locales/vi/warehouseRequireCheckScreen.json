@@ -1,0 +1,14 @@
+{
+  "title": "Yêu cầu check tồn kho",
+  "titleNote": "Chú thích: Yêu cầu này được gửi từ phòng Mua sắm",
+  "titleTable": "Yêu cầu vật liệu",
+  "headerCard": {
+    "card1": "Tổng khối lượng yêu cầu",
+    "card2": "Chờ duyệt",
+    "card3": "Đang đặt",
+    "card4": "Đã về"
+  },
+  "status1": "Chờ BQL Duyệt",
+  "status2": "Chờ check tồn kho",
+  "status3": "Hàng đang về"
+}

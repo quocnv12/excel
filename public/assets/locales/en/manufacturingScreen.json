@@ -1,0 +1,17 @@
+{
+  "title": "Production overview table",
+  "filterSection": {
+    "field1": "Code/Name",
+    "fieldPlaceholder1": "Project code/name...",
+    "field2": "Customer",
+    "fieldPlaceholder2": "Customer code/name",
+    "progress": {
+      "label": "Rate of progress",
+      "option1": "Pending Payment",
+      "option2": "Confirmed",
+      "option3": "Packing",
+      "option4": "Shipping",
+      "option5": "Completed"
+    }
+  }
+}
